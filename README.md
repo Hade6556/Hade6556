@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/skull-dark.svg">
-  <img src="assets/skull-light.svg" width="170" align="right" alt="jolly roger drawn in code characters">
+  <img src="assets/skull-light.svg" width="210" align="right" alt="jolly roger drawn in code characters">
 </picture>
 
 <picture>
