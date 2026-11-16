@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="384" viewBox="0 0 380 384" role="img" aria-label="jolly roger drawn in code characters">
+<style>
+text { font: 700 14px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; fill: #e6edf3; text-anchor: middle; }
+.r { animation: sweep 7s linear infinite; }
+@keyframes sweep { 0% { opacity: 1; } 4% { opacity: .3; } 12% { opacity: 1; } 100% { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { .r { animation: none; } }
+</style>
+<text class="r" style="animation-delay:0.18s" x="145 155 165 175 185 195 205 215 225 235" y="45">'={8##$x+.</text>
+<text class="r" style="animation-delay:0.27s" x="35 45 125 135 145 155 165 175 185 195 205 215 225 235 245 255 335 345" y="61">:..{&amp;#@#$&amp;#$#@8.`.</text>
+<text class="r" style="animation-delay:0.36s" x="25 35 45 55 115 125 135 145 155 165 175 185 195 205 215 225 235 245 255 265 325 335 345 355" y="77">:#$&lt;+&amp;@$#$%$8@#$$8@+x$8.</text>
+<text class="r" style="animation-delay:0.45s" x="15 25 35 45 55 105 115 125 135 145 155 165 175 185 195 205 215 225 235 245 255 265 275 325 335 345 355 365" y="93">;$@&amp;}/%&amp;$&amp;%%@@8@#$%$&amp;%/&gt;$##/</text>
+<text class="r" style="animation-delay:0.54s" x="15 25 35 45 55 65 75 105 115 125 135 145 155 165 175 185 195 205 215 225 235 245 255 265 275 305 315 325 335 345 355 365" y="109">=%&lt;{&amp;#;}$%%8%$&amp;$&amp;##%&amp;88##+8${&gt;8/</text>
+<text class="r" style="animation-delay:0.63s" x="55 65 75 85 105 115 125 135 165 175 185 195 205 215 245 255 265 275 295 305 315 325" y="125">';&amp;&gt;@$x`.&lt;%@&lt;``{#@{&amp;+:</text>
+<text class="r" style="animation-delay:0.72s" x="85 105 115 125 185 195 205 265 275 295" y="141">/}%`%8`@@.</text>
+<text class="r" style="animation-delay:0.81s" x="105 115 125 185 195 205 265 275" y="157">=@:8@.&amp;=</text>
+<text class="r" style="animation-delay:0.90s" x="115 125 135 165 175 185 195 205 215 245 255 265" y="173">+&gt;.:{$%}':};</text>
+<text class="r" style="animation-delay:0.99s" x="125 135 145 155 165 175 185 195 205 215 225 235 245 255" y="189">`8$&amp;&amp;&amp;{x&amp;8&amp;#@.</text>
+<text class="r" style="animation-delay:1.08s" x="145 155 165 175 185 205 215 225 235" y="205">@&amp;@#'$###</text>
+<text class="r" style="animation-delay:1.17s" x="145 155 165 175 185 195 205 215 225 235" y="221">$@$#%$##@$</text>
+<text class="r" style="animation-delay:1.26s" x="145 155 165 175 185 195 205 215 225 235" y="237">&amp;@8%%$%&amp;##</text>
+<text class="r" style="animation-delay:1.35s" x="115 125 145 155 165 185 195 215 225 235 255 265" y="253">`/&amp;&amp;%#@#8%+`</text>
+<text class="r" style="animation-delay:1.44s" x="95 105 115 125 145 155 165 185 195 215 225 235 255 265 275 285" y="269">=}#&lt;}%@8$#$&gt;;8&gt;+</text>
+<text class="r" style="animation-delay:1.53s" x="75 85 95 105 115 265 275 285 295 305" y="285">=%@}':}@@/</text>
+<text class="r" style="animation-delay:1.62s" x="25 35 55 65 75 85 95 285 295 305 315 325 345 355" y="301">::/%8x.'{%@+`'</text>
+<text class="r" style="animation-delay:1.71s" x="15 25 35 45 55 65 75 305 315 325 335 345 355 365" y="317">&gt;#@#@{:'&lt;&amp;$$#{</text>
+<text class="r" style="animation-delay:1.80s" x="15 25 35 45 55 325 335 345 355 365" y="333">'x8#{&lt;&amp;@{'</text>
+<text class="r" style="animation-delay:1.89s" x="35 45 55 325 335 345" y="349">x8//&amp;x</text>
+</svg>

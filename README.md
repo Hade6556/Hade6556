@@ -1,7 +1,6 @@
-<!-- portrait: "The Buccaneer was a Picturesque Fellow", Howard Pyle, 1905 (public domain) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/bee-dark.png">
-  <img src="assets/bee-light.png" width="140" align="right" alt="dithered portrait of a pirate in a wide hat with a musket over his shoulder, after Howard Pyle">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skull-dark.svg">
+  <img src="assets/skull-light.svg" width="170" align="right" alt="jolly roger drawn in code characters">
 </picture>
 
 <picture>
@@ -30,8 +29,21 @@ typescript · vue · node · next.js
 vilnius, lt
 
 <details>
-<summary><sub>don't</sub></summary>
-<br>
-<img src="https://avatars.githubusercontent.com/u/74015197?v=4&s=240" width="120" alt="the original photo: a cat in a suit in front of a bright blue sky and green hills">
-<p><sub>fine. this is who reviews my code.</sub></p>
+<summary><sub>x marks the spot</sub></summary>
+
+```
+  ~      ~          ~        ~
+     . - - - .            ~
+  ~ '         ' - .
+   .      ~        ' .      ~
+   '                  '
+     ~        ~        .  x
+  ~                          ~
+
+  54.6872 n, 25.2797 e
+
+  qrnq zra gryy ab gnyrf.
+  tvg ybt qbrf.
+```
+
 </details>
