@@ -1,6 +1,7 @@
+<!-- portrait: "The Buccaneer was a Picturesque Fellow", Howard Pyle, 1905 (public domain) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/bee-dark.png">
-  <img src="assets/bee-light.png" width="140" align="right" alt="dithered black and white portrait of a cat in a suit and tie">
+  <img src="assets/bee-light.png" width="140" align="right" alt="dithered portrait of a pirate in a wide hat with a musket over his shoulder, after Howard Pyle">
 </picture>
 
 <picture>
