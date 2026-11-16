@@ -2,7 +2,7 @@
 
 born to be a pirate, that's why i ship.
 
-i work on hPanel at Hostinger. after hours i build things i actually want to use, and sometimes i even finish them.
+after hours i build things i actually want to use, and sometimes i even finish them.
 
 ### made
 
